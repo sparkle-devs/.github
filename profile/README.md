@@ -1,6 +1,6 @@
 # Sparkle
 > [!IMPORTANT]
-> GitHub has banned several Sparkle members for no apparent reason, so Sparkle is in the process of finding a new Git forge.
+> GitHub has banned several Sparkle members for no apparent reason, so Sparkle has moved to `git.hermits.cc`.
 <img width=512 height=175 src=banner-new.png>
 
 
